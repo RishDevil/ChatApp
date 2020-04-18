@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "836815525142",
+    "firebase_url": "https://chatuu-98b03.firebaseio.com",
+    "project_id": "chatuu-98b03",
+    "storage_bucket": "chatuu-98b03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836815525142:android:a3d288b173da1db1",
+        "android_client_info": {
+          "package_name": "com.example.acer.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836815525142-d0orbihgt45ou8i6quh12nq1hg43uhc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.chatapp",
+            "certificate_hash": "9f94eb22ed0b2e20fd568dc68bbc0462ac37a8d5"
+          }
+        },
+        {
+          "client_id": "836815525142-0r58oce02crlvqu0kjdqtvrkb1ltsmuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH7s91Wj5slIXNkxk-Znyv3Y_u-lffZ1I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836815525142-0r58oce02crlvqu0kjdqtvrkb1ltsmuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
